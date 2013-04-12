@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+  <string name="app_name">Очищення</string>
+  <string name="hello_world">Привіт Світ!</string>
+  <string name="menu_settings">Установки</string>
+  <string name="title_activity_config">ConfigActivity</string>
+</resources>

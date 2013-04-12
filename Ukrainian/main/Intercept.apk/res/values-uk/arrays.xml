@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+  <string-array name="Modes_array">
+    <item>Перехоплювати виклики і повідомлення</item>
+    <item>Перехоплення викликів</item>
+    <item>Перехоплення повідомлень</item>
+  </string-array>
+  <integer-array name="modes_array_int">
+    <item>3</item>
+    <item>1</item>
+    <item>2</item>
+  </integer-array>
+</resources>
